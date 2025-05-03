@@ -30,6 +30,7 @@ export default function HomePage() {
         <Hero />
 
         {/* Services */}
+
         <section className="w-full bg-gray-50 py-16">
           <h2 className="text-2xl md:text-3xl lg:text-5xl font-bold text-center mb-8 text-black">
             How We Can Help You
@@ -47,7 +48,7 @@ export default function HomePage() {
           </div>
           <div className="text-center mt-8">
             <Link
-                href="/services"
+                // href="/services"
                 className="inline-block bg-blue-600 text-white py-2 px-6 rounded hover:bg-blue-700 transition"
             >
               View All Services
@@ -75,7 +76,7 @@ export default function HomePage() {
               Reach out today and find out how Supportive Arms can make a difference in your daily life.
             </p>
             <Link
-                href="/contact"
+                // href="/contact"
                 className="inline-block bg-white text-blue-600 py-3 px-8 rounded font-semibold hover:bg-gray-100 transition"
             >
               Request a Consultation
