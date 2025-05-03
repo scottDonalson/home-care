@@ -3,7 +3,7 @@ import React from "react";
 import Hero from "@/components/Hero";
 import ServiceCard from "@/components/ServiceCard";
 import Testimonials from "@/components/Testimonials";
-import Link from "next/link";
+// import Link from "next/link";
 
 const previewServices = [
   {
@@ -47,12 +47,12 @@ export default function HomePage() {
             ))}
           </div>
           <div className="text-center mt-8">
-            <Link
-                // href="/services"
-                className="inline-block bg-blue-600 text-white py-2 px-6 rounded hover:bg-blue-700 transition"
-            >
-              View All Services
-            </Link>
+            {/*<Link*/}
+            {/*    // href="/services"*/}
+            {/*    className="inline-block bg-blue-600 text-white py-2 px-6 rounded hover:bg-blue-700 transition"*/}
+            {/*>*/}
+            {/*  View All Services*/}
+            {/*</Link>*/}
           </div>
         </section>
 
@@ -75,12 +75,12 @@ export default function HomePage() {
             <p className="text-base sm:text-lg md:text-xl mb-6">
               Reach out today and find out how Supportive Arms can make a difference in your daily life.
             </p>
-            <Link
-                // href="/contact"
-                className="inline-block bg-white text-blue-600 py-3 px-8 rounded font-semibold hover:bg-gray-100 transition"
-            >
-              Request a Consultation
-            </Link>
+            {/*<Link*/}
+            {/*    // href="/contact"*/}
+            {/*    className="inline-block bg-white text-blue-600 py-3 px-8 rounded font-semibold hover:bg-gray-100 transition"*/}
+            {/*>*/}
+            {/*  Request a Consultation*/}
+            {/*</Link>*/}
           </div>
         </section>
       </main>
