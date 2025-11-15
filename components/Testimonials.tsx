@@ -29,7 +29,7 @@ const testimonials: Testimonial[] = [
         name: "Mary Lee",
         role: "Client",
         photo: "/testimonials/mary.jpg",
-        quote: "Professional, reliable, and truly caring. Highly recommend Supportive Arms."
+        quote: "Professional, reliable, and truly caring. Highly recommend Prestige Care Helpers."
     },
 ];
 

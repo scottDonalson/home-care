@@ -73,7 +73,7 @@ export default function HomePage() {
               Ready to Get Started?
             </h2>
             <p className="text-base sm:text-lg md:text-xl mb-6">
-              Reach out today and find out how Supportive Arms can make a difference in your daily life.
+              Reach out today and find out how Prestige Care Helpers can make a difference in your daily life.
             </p>
             {/*<Link*/}
             {/*    // href="/contact"*/}

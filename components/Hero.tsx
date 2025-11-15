@@ -8,7 +8,7 @@ export default function Hero() {
     return (
         <section className="py-20 text-center">
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-4">
-                Supportive Arms Home Care
+                Prestige Care Helpers Home Care
             </h1>
             <p className="hidden">
                 Compassionate, non-medical care to help you or your loved ones live safely and comfortably at home.
